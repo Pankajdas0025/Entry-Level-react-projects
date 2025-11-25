@@ -5,14 +5,17 @@ A collection of beginner-friendly React projects designed to strengthen core con
     <th>Preview</th>
     <th>Title</th>
     <th>Action </th>
+    <th>Give Star </th>
   </thead>
 
-  <tbody>
-    <tr>
-      <td width="33%" > <img src="images/SimpleForm.png"> </td>
-      <td width="33%" > Simple Contact Form using React useState variable</td>
-      <td width="33%" > <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/fork/" > Fork on GitHub</a></td>
-    </tr>
-      </tbody>
+<tbody>
+  <tr>
+    <td width="25%"><img src="images/SimpleForm.png"> </td>
+    <td width="35%">Simple Contact Form using React useState variable</td>
+    <td width="20%">  <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/fork">Fork on GitHub</a> </td>
+    <td width="20%">   <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/stargazers">⭐ Star</a>  </td>
+  </tr>
+</tbody>
+
 
   </table>
