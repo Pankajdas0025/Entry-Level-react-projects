@@ -3,8 +3,8 @@ A collection of beginner-friendly React projects designed to strengthen core con
 <table>
   <thead>
     <th>Preview</th>
-    <td>Title</td>
-    <th>Action <th>
+    <th>Title</th>
+    <th>Action </th>
   </thead>
 
   <tbody>
