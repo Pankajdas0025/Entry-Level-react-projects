@@ -37,17 +37,19 @@ form button
 table
 
 {
-    border-collapse: collapse;
-    background-color: wheat ;
+
     width: 55%;
     margin: 10px 0;
+    font-size: 20px;
 
 }
-table tr { margin:2.5px 0;}
+table tr { margin:2.5px 0; }
 table td
 
 {
     width: 50%;
     padding-left: 10px;
+    align-items: center;
+    align-content: center;
 }
-.action{ background-color: rgb(76, 96, 45); color: #e0cccc; align-items: center; align-content: center;}
+.action { background-color: rgb(76, 96, 45); width: 100%; color: wheat;}

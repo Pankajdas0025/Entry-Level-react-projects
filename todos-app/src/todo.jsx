@@ -26,7 +26,7 @@ function Todo() {
 
 
       <form onSubmit={handleSubmit}>
-             <h1>Cc</h1>
+             <h1>Add your To-dos</h1>
         <input
           type="text"
           placeholder="Add new To-do"
@@ -36,12 +36,12 @@ function Todo() {
         <button type="submit">Add Todo</button>
 
 
-      <table border={1}>
+      <table border={0}>
         {todos.map((todo, index) => (
           <tr key={index}>
-            <td> {index} </td>
+            <td> {index + 1} </td>
             <td>   <span style={{textDecoration: todo.completed ? 'line-through' : 'none'}}>{todo.text}</span></td>
-            <td className="action"> <button onClick={() => handleDelete(index)}> Delete</button> </td>
+            <td > <button className="action" onClick={() => handleDelete(index)}> Delete</button> </td>
 
 
           </tr>
