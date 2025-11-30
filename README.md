@@ -22,7 +22,7 @@ A collection of beginner-friendly React projects designed to strengthen core con
     <td width="20%">   <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/stargazers">⭐ Star</a>  </td>
   </tr>
   <tr>
-    <td width="25%"><img src="images/Expense-tracker-app.png.png"> </td>
+    <td width="25%"><img src="images/Expense tracker .png"> </td>
     <td width="35%">Expense tracker App </td>
     <td width="20%">  <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/fork">Fork on GitHub</a> </td>
     <td width="20%">   <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/stargazers">⭐ Star</a>  </td>
