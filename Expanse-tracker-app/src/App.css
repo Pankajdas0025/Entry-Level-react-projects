@@ -1,0 +1,61 @@
+.app-container
+{
+    background-color: rgb(209, 198, 198);
+    box-shadow: 0px 0px 25px black inset ;
+    height: auto;
+    min-height: 50vh;
+    width: 40vw;
+    margin: 10vh 30vw;
+    padding: 25px;
+     font-family: sans-serif;
+}
+.app-container h1 {
+
+    font-size: 2rem;
+    font-family: sans-serif;
+
+}.app-container h3 {
+
+color: rgb(50, 61, 50);
+
+}
+.expense-form
+
+{
+
+    height: 50px;
+    align-content: center;
+    display: flex;
+}.expense-form input
+{
+    height: 40px;
+    margin: 2.5px;
+}.expense-form button
+{
+    background-color: rgb(40, 66, 40);
+    color: white;
+    font-weight: 600;
+}
+.expense-list
+
+{
+
+    height: auto;
+}
+
+.expense-item table
+{
+
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+
+}.expense-item table th { background-color: #FF1;}
+.expense-item
+
+{
+    background-color: rgb(244, 237, 237);
+    margin-top: 10px;
+    padding: 5px 5px;
+    font-size: 20px;
+}
