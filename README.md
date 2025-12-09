@@ -27,6 +27,12 @@ A collection of beginner-friendly React projects designed to strengthen core con
     <td width="20%">  <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/fork">Fork on GitHub</a> </td>
     <td width="20%">   <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/stargazers">⭐ Star</a>  </td>
   </tr>
+    <tr>
+    <td width="25%"><img src="images/tic-tac-toe.png"> </td>
+    <td width="35%">Tic-Tac-Toe-Game</td>
+    <td width="20%">  <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/fork">Fork on GitHub</a> </td>
+    <td width="20%">   <a href="https://github.com/Pankajdas0025/Entry-Level-react-projects/Tic-Tac-Toe-Game">⭐ Star</a>  </td>
+  </tr>
 </tbody>
 
 
